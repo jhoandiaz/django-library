@@ -1,2 +1,4 @@
 # django-library
-basic library using django
+basic library project using django
+
+database = sqllite
